@@ -1,6 +1,6 @@
-# Bright Solutions Agentic Project Builder 🤖🚀
+# Agentic Project Builder 🤖🚀
 
-Welcome to the **Bright Solutions Agentic Project Builder** repository! This innovative tool leverages AI agents to transform your ideas into fully functional projects. Simply describe what you want—be it a website, app, script, or any software solution—and our agentic system handles the end-to-end creation. From planning to coding, it generates the complete codebase, ready for you to run and test. No coding expertise required on your side! 
+Welcome to the **Agentic Project Builder** repository! This innovative tool leverages AI agents to transform your ideas into fully functional projects. Simply describe what you want—be it a website, app, script, or any software solution—and our agentic system handles the end-to-end creation. From planning to coding, it generates the complete codebase, ready for you to run and test. No coding expertise required on your side! 
 
 As a premier BPO and AI solutions provider, **Bright Solutions** offers this as a **custom service** to clients. We tailor the agent to your specific needs, deploy it seamlessly, and ensure it delivers high-quality, production-ready outputs. Whether you're a startup, enterprise, or individual, let's turn your vision into reality. 🌟
 
