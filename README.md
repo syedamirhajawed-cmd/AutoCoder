@@ -2,7 +2,7 @@
 
 Welcome to the **Agentic Project Builder** repository! This innovative tool leverages AI agents to transform your ideas into fully functional projects. Simply describe what you want—be it a website, app, script, or any software solution—and our agentic system handles the end-to-end creation. From planning to coding, it generates the complete codebase, ready for you to run and test. No coding expertise required on your side! 
 
-As a premier BPO and AI solutions provider, **Bright Solutions** offers this as a **custom service** to clients. We tailor the agent to your specific needs, deploy it seamlessly, and ensure it delivers high-quality, production-ready outputs. Whether you're a startup, enterprise, or individual, let's turn your vision into reality. 🌟
+As a premier BPO and AI solutions provider, i offers this as a **custom service** to clients. We tailor the agent to your specific needs, deploy it seamlessly, and ensure it delivers high-quality, production-ready outputs. Whether you're a startup, enterprise, or individual, let's turn your vision into reality. 🌟
 
 ![Agentic Flow Diagram](./resources/coder_buddy_diagram.png)  
 *(Overview of our LangGraph-based workflow: Starting from your prompt, it flows through Planner → Architect → Coder, ensuring structured and efficient project generation.)*
@@ -60,7 +60,7 @@ No setup needed—we handle it all! 🚀
 Explore the code yourself:
 1. **Clone the Repo**:
    ```
-   git clone https://github.com/BrightsSolution/AutoCoder.git
+   git clone https://github.com/syedamirhajawed-cmd/AutoCoder.git
    cd AutoCoder
    ```
 2. **Install Dependencies**:
